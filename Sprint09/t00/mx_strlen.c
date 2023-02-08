@@ -1,4 +1,4 @@
-int mx_strlen(const char *);
+#include "printerr.h"
 
 int mx_strlen(const char *s) {
 	int j = 0;

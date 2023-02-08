@@ -1,4 +1,4 @@
-int mx_strlen(const char *);
+#include "../inc/header.h"
 
 int mx_strlen(const char *s) {
 	int j = 0;
